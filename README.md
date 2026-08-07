@@ -72,7 +72,7 @@ Smart-Factory-Monitoring-System/
 │   │   ├── telemetry.h / .cpp  # JSON telemetry construction & transmission
 │   │   ├── actuator.h / .cpp   # Relay & status LED driver logic
 │   │   └── rpc.h / .cpp        # Remote Procedure Call (RPC) command handlers
-│   └── node2/                  # Node 2 firmware files (Warehouse node)
+│   └── node2/                  # Node 2 firmware files (Warehouse node) as similar to node 2 slight changes
 └── README.md                   # Project Documentation
 ```
 
